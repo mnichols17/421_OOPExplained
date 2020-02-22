@@ -2,7 +2,7 @@
 
 namespace Polymorphism
 {
-    class Shape
+    public class Shape
     {
         public int Perimeter(int side1, int side2, int side3)
         {

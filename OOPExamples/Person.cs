@@ -22,6 +22,11 @@ namespace EncapsulationAndAbstraction
             return this.Name;
         }
 
+        public string getJob()
+        {
+            return this.Job;
+        }
+
         public void changeJob(string newJob)
         {
             this.Job = newJob;

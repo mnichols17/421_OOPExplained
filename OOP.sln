@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationAndAbstraction", "OOPExamples\EncapsulationAndAbstraction.csproj", "{50789DB6-619A-4B40-B27E-A727DE62633B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncapsulationAndAbstraction", "OOPExamples\EncapsulationAndAbstraction.csproj", "{50789DB6-619A-4B40-B27E-A727DE62633B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{B1001390-3CE1-427F-B447-7FD64C1E8A1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{B1001390-3CE1-427F-B447-7FD64C1E8A1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{0BC3FDFE-9942-4700-AD2B-3A38BBFD9D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{0BC3FDFE-9942-4700-AD2B-3A38BBFD9D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTests", "EncapsulationAndAbstractionTests\OOPTests.csproj", "{26018EF4-AB77-49EB-9E7E-12DC4BCAC256}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0BC3FDFE-9942-4700-AD2B-3A38BBFD9D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BC3FDFE-9942-4700-AD2B-3A38BBFD9D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BC3FDFE-9942-4700-AD2B-3A38BBFD9D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26018EF4-AB77-49EB-9E7E-12DC4BCAC256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26018EF4-AB77-49EB-9E7E-12DC4BCAC256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26018EF4-AB77-49EB-9E7E-12DC4BCAC256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26018EF4-AB77-49EB-9E7E-12DC4BCAC256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
