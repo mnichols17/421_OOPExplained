@@ -1,5 +1,13 @@
 # Object Oriented Programming Explained
 
+#### Code of each Principle & Tests
+[Encapsulation & Abstraction](https://github.com/mnichols17/421_OOPExplained/tree/master/OOPExamples)  
+[Inheritance](https://github.com/mnichols17/421_OOPExplained/tree/master/Inheritance)  
+[Polymorphism](https://github.com/mnichols17/421_OOPExplained/tree/master/Polymorphism)  
+[Testing for All Principles](https://github.com/mnichols17/421_OOPExplained/tree/master/EncapsulationAndAbstractionTests)
+
+
+
 ## Encapsulation and Abstraction
 
 **Encapsulation** is when an object keeps its state private. To put it more simply, an object is created with variables and those variables can't be affected from outside the class.
